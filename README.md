@@ -62,6 +62,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ##Instalacion
 Laravel Framework 7.30.6
+
 PHP 7.2.34
+
 Composer version 2.7.2
+
 XAMP 3.2.4
