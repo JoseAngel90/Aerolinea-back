@@ -67,4 +67,6 @@ PHP 7.2.34
 
 Composer version 2.7.2
 
-XAMP 3.2.4
+XAMP controller 3.2.4
+
+para hacer la conexión a la base, el archivo .env que se adjunto se copia y pega en la carpeta  raiz del back
